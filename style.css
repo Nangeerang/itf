@@ -1,0 +1,25 @@
+body{
+    background-color: rgba(241, 219, 199, 0.74);
+    padding: 0;
+    margin: 0;
+}
+
+.header{
+    background-color: rgba(61, 27, 2, 0.89);
+    color: rgba(228, 80, 22, 0.829);
+    font-size: 52px;
+    margin: 0;
+    padding: 0;
+}
+
+.box{
+    text-align: center;
+    border: 10px;
+    border-style: double ;
+    margin-top: 20px;
+}
+.myname{
+    background-color: greenyellow;
+    margin-left:40%;
+    margin-right:40%;
+}
